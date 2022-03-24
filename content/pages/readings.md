@@ -109,11 +109,11 @@ Walker, J. C. G., P. B. Hays, and J. F. Kasting. "[A Negative Feedback Mechanism
 
 Catling, D. C., K. J. Zahnle, and C. P. McKay. "[Biogenic Methane, Hydrogen Escape, and the Irreversible Oxidation of Early Earth](http://www.sciencemag.org/cgi/content/abstract/sci;293/5531/839?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&fulltext=Biogenic+Methane%2C+Hydrogen+Escape%2C+and+the+Irreversible+Oxidation+of+Early+Earth&searchid=1&FIRSTINDEX=0&resourcetype=HWCIT)." _Science_ 293 (2001): 839-843.
 
-Holland, H. D. "When did the Earth's Atmosphere become Oxic? A Reply." _Geochem News_ 100 (July 1999): 20-22. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/72d7/33387a3b90f606896e07b6b70705b101e64c.pdf))
+Holland, H. D. "When did the Earth's Atmosphere become Oxic? A Reply." _Geochem News_ 100 (July 1999): 20-22. ([PDF](https://pdfs.semanticscholar.org/72d7/33387a3b90f606896e07b6b70705b101e64c.pdf))
 
 Holland, H. D., B. Lazar, and M. McCaffrey. "[Evolution of the Atmosphere and Oceans](http://www.nature.com/nature/journal/v320/n6057/abs/320027a0.html)." _Nature_ 320 (1986): 27-33.
 
-Kasting, J. F., D. H. Eggler, and S. P. Raeburn. "Mantle Redox Evolution and the Oxidation State of the Archean Atmosphere." _J Geol_ 101 (1993): 245-257. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB](https://www.ncbi.nlm.nih.gov/pubmed/11537741))
+Kasting, J. F., D. H. Eggler, and S. P. Raeburn. "Mantle Redox Evolution and the Oxidation State of the Archean Atmosphere." _J Geol_ 101 (1993): 245-257. ([PDF - 1.6 MB](https://www.ncbi.nlm.nih.gov/pubmed/11537741))
 
 Kump, L. R., and H. D. Holland. "[Iron in Precambrian Rocks: Implications for the Global Oxygen Budget of the Ancient Earth](http://www.ncbi.nlm.nih.gov/pubmed/11537208?ordinalpos=14&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum)." _Geochim Cosmochim Acta_ 56 (1992): 3217-3223.
 
@@ -175,7 +175,7 @@ Snowball earth and pre-cenozoic glaciations
 
 **_Assigned readings_**
 
-Hoffman and Schrag. _Terra Nova_ 14, no. 3 (2002): 129-155. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.2 MB](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-3121.2002.00408.x))
+Hoffman and Schrag. _Terra Nova_ 14, no. 3 (2002): 129-155. ([PDF - 1.2 MB](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-3121.2002.00408.x))
 
 Lubick. _[Nature](http://dx.doi.org/10.1038/417012a)_ 417 (2002): 12-13.
 
@@ -197,7 +197,7 @@ Frakes, L. A., J. E. Francis, and J. I. Syktus. _Climate Modes of the Phanerozoi
 
 Hambray, M., and W. Harland. _Earth's Pre-Pleistocene Glacial Record_. New York, NY: Cambridge University Press, 1981, p. 1004. ISBN: 9780521228602.
 
-Hoffman, P. F., and D. P. Schrag. "Snowball Earth." _Sci Am_ (January 2000): 68-75. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.geo.arizona.edu/~reiners/geos342/HoffmanandSchrag2000.pdf))
+Hoffman, P. F., and D. P. Schrag. "Snowball Earth." _Sci Am_ (January 2000): 68-75. ([PDF](http://www.geo.arizona.edu/~reiners/geos342/HoffmanandSchrag2000.pdf))
 
 Hoffman, P. F., A. J. Kaufman, G. P. Halverson, and D. P. Schrag. "[A Neoproterozoic Snowball Earth](http://www.sciencemag.org/cgi/content/abstract/sci;281/5381/1342?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&fulltext=A+Neoproterozoic+Snowball+Earth&searchid=1&FIRSTINDEX=0&resourcetype=HWCIT)." _Science_ 281 (1988): 1342-1346.
 
