@@ -4,6 +4,7 @@ description: Lecture presentation on the co-evolution of life, ocean-atmospheric
   and sedimentary rocks.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-842-climate-physics-and-chemistry-fall-2008/bee8f12af06296675583a8128a28ffd8_part1_lec3.pdf
 file_type: application/pdf
+parent_uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 resourcetype: Document
 title: The Co-evolution of Life, Ocean and Atmospheric Chemistry, and Sedimentary
   Rocks
